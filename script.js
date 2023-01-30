@@ -1,5 +1,11 @@
 // Assignment code here
 
+// Create the generatePassword function that is called in writePassword()
+function generatePassword() {
+  console.log("Generate button clicked");
+  newPassword = "This will be a password soon";
+  return newPassword;
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
