@@ -11,6 +11,6 @@ This is a javascript webapp that enables the user to generate a complex password
 - CSS
 
 ## Deployed Site
-
+[https://harmoniacodes.github.io/password-generator/](https://harmoniacodes.github.io/password-generator/)
 
 
